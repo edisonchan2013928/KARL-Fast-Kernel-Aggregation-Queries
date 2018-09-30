@@ -4,6 +4,7 @@ Before you run or read our codes, please make sure you understand the concept of
 Please note that the folder "Publish_codes.zip" is not the library but it is only used for testing in our publication. We are still developing/ integrating the codes to the KARL library. We will release the library soon, probably before the ICDE2019 presentation, 8th April,2019. We hope to integrate more machine learning models/ more kernel functions into this library.
 
 In our Publish_codes.zip, there are three folders which are:
+
 "Type_I_epsilon" This one is for kernel density estimation model with relative error epsilon
 "Type_I_II_tau" This one is for kernel density classification and 1-class SVM models
 "Type_III_tau" This one is for 2-class SVM model
