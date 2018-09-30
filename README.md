@@ -13,4 +13,4 @@ In our Publish_codes.zip, there are three folders which are:
 
 In each file, there is one shell script called "KARL_demo.sh". It will automatically run three different methods, SCAN, SOTA and KARL in one dataset. Unfortunately, the size of the datasets is large and thus, we cannot put them inside the Github. If you need the datasets, please contact me (just call me Edison) via the following email addresses "edisonchan2013928@gmail.com" or "cstnchan@comp.polyu.edu.hk" or "tnchan2@cs.hku.hk".
 
-In the "KARL_demo.sh" of "Type_I_epsilon" folder, this includes how to use the auto-tuning method. This method can be also used for other models (e.g. "Type_I_II_tau" and "Type_III_tau").
+In the "KARL_demo.sh" of "Type_I_epsilon" folder, this includes how to use the auto-tuning method. The similar scripts can be also used for other models (e.g. "Type_I_II_tau" and "Type_III_tau").
