@@ -1,7 +1,7 @@
 # KARL-Fast-Kernel-Aggregation-Queries
 Before you run or read our codes, please make sure you understand the concept of our paper and also read the supplementary notes (KARL_supplementary.pdf) in this github.
 
-Please note that the folder "Publish_codes.zip" is not the library but it is only used for testing in our publication. We will develop/ integrate the codes to one unified library (similar with LibSVM). In this library, we hope to support more machine learning models/ kernel functions. Moreover, we also hope to support more interesting applications using kernel functions.
+Please note that the folder "Publish_codes.zip" is not the library but it is only used for testing in our publication. The folder "KARL_library.zip" is the library (version 0) which integrates the prediction phase of all different models. In the future, we hope to support more machine learning models/ kernel functions. Moreover, we also hope to support more interesting applications using kernel functions.
 
 In our Publish_codes.zip, there are three folders which are:
 
