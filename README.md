@@ -17,4 +17,4 @@ In the "KARL_demo.sh" of "Type_I_epsilon" folder, this includes how to use the a
 
 Please also check the webpage https://edisonchan2013928.github.io/My-homepage/ for my recent publications. We are happy that the related work QUAD [a] is also accepted to the prestigious conference SIGMOD.
 
-[a] Tsz Nam Chan, Reynold Cheng, Man Lung Yiu. "QUAD: Quadratic-Bound-Based Kernel Density Visualization" Proceedings of ACM Conference on Management of Data (SIGMOD), 2020, To appear.
+[a] Tsz Nam Chan, Reynold Cheng, Man Lung Yiu. "QUAD: Quadratic-Bound-Based Kernel Density Visualization" Proceedings of ACM Conference on Management of Data (SIGMOD), 2020, To appear. (https://edisonchan2013928.github.io/My-homepage/publication/QUAD.pdf)
