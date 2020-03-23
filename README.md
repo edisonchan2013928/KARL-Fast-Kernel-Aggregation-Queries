@@ -15,6 +15,6 @@ In each file, there is one shell script called "KARL_demo.sh". It will automatic
 
 In the "KARL_demo.sh" of "Type_I_epsilon" folder, this includes how to use the auto-tuning method. The similar scripts can be also used for other models (e.g. "Type_I_II_tau" and "Type_III_tau").
 
-Please also check the webpage https://edisonchan2013928.github.io/My-homepage/ for my recent publications. We are happy that the related work QUAD [a] is also accepted to the prestigious conference SIGMOD. The code of [a] is in https://github.com/edisonchan2013928/QUAD-for-Kernel-Density-Visualization-KDV-.
+Please also check the webpage https://edisonchan2013928.github.io/My-homepage/ for my recent publications. We are happy that the related work QUAD [a] is also accepted to the prestigious conference SIGMOD. The code of [a] is in "https://github.com/edisonchan2013928/QUAD-for-Kernel-Density-Visualization-KDV-".
 
 [a] Tsz Nam Chan, Reynold Cheng, Man Lung Yiu. "QUAD: Quadratic-Bound-Based Kernel Density Visualization" Proceedings of ACM Conference on Management of Data (SIGMOD), 2020, To appear. (https://edisonchan2013928.github.io/My-homepage/publication/QUAD.pdf)
