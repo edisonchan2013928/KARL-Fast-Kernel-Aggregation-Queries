@@ -18,4 +18,5 @@ In the "KARL_demo.sh" of "Type_I_epsilon" folder, this includes how to use the a
 Please also check the webpage https://edisonchan2013928.github.io/My-homepage/ for my recent publications. We are happy that some related studies [a],[b] have been accepted in the prestigious conference and journal.
 
 [a] Tsz Nam Chan, Reynold Cheng, Man Lung Yiu. "QUAD: Quadratic-Bound-Based Kernel Density Visualization" Proceedings of ACM Conference on Management of Data (SIGMOD), 2020. (https://edisonchan2013928.github.io/My-homepage/publication/QUAD.pdf) (Code: "https://github.com/edisonchan2013928/QUAD-for-Kernel-Density-Visualization-KDV-")
+
 [b] Tsz Nam Chan, Leong Hou U, Reynold Cheng, Man Lung Yiu, Shivansh Mittal. "Efficient Algorithms for Kernel Aggregation Queries" IEEE Transactions on Knowledge and Data Engineering (TKDE), To appear. ("https://edisonchan2013928.github.io/My-homepage/publication/KARL_AK.pdf") (Code: "https://github.com/edisonchan2013928/Fast-Prediction-for-Additive-Kernels-Using-KARL")
